@@ -50,3 +50,12 @@ the window, but ordinary 3-line address should fit).
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Thu Aug 09 2012 Paulo Andrade <pcpa@mandriva.com.br> 1.0-2
++ Revision: 813584
+- Update to latest release.
+- Import texlive-koma-script-sfs
+- Import texlive-koma-script-sfs
+
