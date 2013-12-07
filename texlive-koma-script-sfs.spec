@@ -6,7 +6,7 @@
 # catalog-version 1.0
 Name:		texlive-koma-script-sfs
 Version:	1.0
-Release:	3
+Release:	4
 Summary:	Koma-script letter class option for Finnish
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/koma-script-SFS
