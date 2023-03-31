@@ -1,6 +1,6 @@
 Name:		texlive-koma-script-sfs
 Version:	26137
-Release:	1
+Release:	2
 Summary:	Koma-script letter class option for Finnish
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/koma-script-SFS
