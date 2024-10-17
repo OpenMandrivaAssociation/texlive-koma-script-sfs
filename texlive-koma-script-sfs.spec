@@ -3,7 +3,7 @@ Version:	26137
 Release:	2
 Summary:	Koma-script letter class option for Finnish
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/koma-script-SFS
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/koma-script-SFS
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/koma-script-sfs.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/koma-script-sfs.doc.r%{version}.tar.xz
